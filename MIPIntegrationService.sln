@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MIPApiService", "MIPApiService\MIPApiService.csproj", "{004AA185-D3E6-489C-9091-2E5F967529D9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MIPWorkerService", "MIPWorkerService\MIPWorkerService.csproj", "{450ACF03-0F8D-48A2-83B9-B04440209F9C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MIPSharedLibrary", "MIPSharedLibrary\MIPSharedLibrary.csproj", "{461A0219-AE62-4173-8675-7552F4C83025}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{004AA185-D3E6-489C-9091-2E5F967529D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{004AA185-D3E6-489C-9091-2E5F967529D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{004AA185-D3E6-489C-9091-2E5F967529D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{004AA185-D3E6-489C-9091-2E5F967529D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{450ACF03-0F8D-48A2-83B9-B04440209F9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{450ACF03-0F8D-48A2-83B9-B04440209F9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{450ACF03-0F8D-48A2-83B9-B04440209F9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{450ACF03-0F8D-48A2-83B9-B04440209F9C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{461A0219-AE62-4173-8675-7552F4C83025}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{461A0219-AE62-4173-8675-7552F4C83025}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{461A0219-AE62-4173-8675-7552F4C83025}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{461A0219-AE62-4173-8675-7552F4C83025}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
