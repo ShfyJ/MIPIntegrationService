@@ -361,3 +361,6 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+/MIPWorkerService/appsettings.json
+/MIPWorkerService/appsettings.Development.json
+/MIPApiService/MIPApiService.csproj
